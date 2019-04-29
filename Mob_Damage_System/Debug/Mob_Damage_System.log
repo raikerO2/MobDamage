@@ -1,0 +1,3 @@
+﻿  entity.cpp
+d:\projects\visual studio\mob_damage_system\mob_damage_system\entity.cpp(44): warning C4715: 'Entity::SetAttribute': not all control paths return a value
+  Mob_Damage_System.vcxproj -> D:\Projects\Visual Studio\Mob_Damage_System\Debug\Mob_Damage_System.exe
